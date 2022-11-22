@@ -6,3 +6,4 @@ let precio = document.simuladorFactura.precio.value
 }
 
 
+// continuara
