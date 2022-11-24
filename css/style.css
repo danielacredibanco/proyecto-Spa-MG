@@ -6,9 +6,9 @@ body{
     overflow-x: hidden;
 }
 
-/* #menu{
-    background-color: #a82c23 !important;
-} */
+ #menu{
+    background-color: #000 !important;
+} 
 
 #menu a, button{
     font-size: 18px !important;
@@ -16,7 +16,7 @@ body{
 }
 
 #menu a{
-    color: #424040;
+    color: #fffdfd;
 }
 
 
@@ -221,8 +221,19 @@ footer{
  #simulador .titulo{
     margin-top: 80PX;
  }
+.dropdown-item {
+     color: #000 !important;
+}
 
-
+#nosotros p{
+    color: #fff;
+}
+#Nosotros{
+    margin-top:  100px;
+}
+#Nosotros{
+    text-align: center;
+}
 
 
 
